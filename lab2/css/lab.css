@@ -7,3 +7,26 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  P{
+    font-size: 24px;
+    color: rgb(119, 80, 0);
+    border: 30px dotted rgb(30, 80, 37);
+    padding: 40px;
+    border-radius: inline-block;
+    display: inline-block;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 50px;
+    padding: 50px;
+    text-align: center;
+    color: rgb(46, 149, 126)
+  }
+
+  #img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
